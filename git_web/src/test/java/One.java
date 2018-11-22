@@ -3,5 +3,8 @@ public class One {
         System.out.println("one one one");
  System.out.println("one one one");
  System.out.println("xxxxxxxx");
+ System.out.println("xxxxxxxx");
+ System.out.println("xiaona");
+ 
     }
 }
